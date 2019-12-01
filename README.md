@@ -1,7 +1,11 @@
-# Wordpress2
+# PULSE
 
-The project was created with "sass".
+The project was created with:
++ preprocessor scss;
++ library jQuery (https://jquery.com/);
++ PHPMailer (https://github.com/PHPMailer/PHPMailer);
++ methodology BEM (https://ru.bem.info/methodology/).
 
-*Проект создан с использования препроцессора sass.*
+*Проект создан с использованием препроцессора sass.*
 
-![Image alt](https://github.com/darkus007/readme/blob/master/WordPress2.jpg)
+![Project screenshot](https://github.com/darkus007/readme/blob/master/WordPress2.jpg)
